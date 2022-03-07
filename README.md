@@ -1,6 +1,7 @@
 # Woofstagram
 
-How to Run:
+A fictional social media mobile app for Pets!
 
-1. Clone repository
-2. npm start
+## Instructions
+
+1. npm start
