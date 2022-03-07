@@ -2,7 +2,7 @@
 
 A fictional social media mobile app for Pets!
 
-Made w
+Made with React Native Expo :iphone:
 
 ## Instructions
 
