@@ -1,8 +1,8 @@
 # Woofstagram
 
-A fictional social media mobile app for Pets!
+A fictional social media mobile app for Pets! 
 
-Made with React Native Expo :iphone:
+Made with React Native Expo # :iphone:
 
 ## Instructions
 
