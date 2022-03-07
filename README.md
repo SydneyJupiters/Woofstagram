@@ -6,6 +6,7 @@ A fictional social media mobile app for Pets!
 
 
 ```bash
+# run this in your code editor
 
 npm start
 
