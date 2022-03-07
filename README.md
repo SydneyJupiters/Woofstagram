@@ -12,3 +12,9 @@ Made with React Native Expo :iphone:
 npm start
 
 ```
+
+## Improvements
+
+- Add the various pages e.g Feed, Settings etc.
+- Add icons for bottom tab navigation
+- Design and style Sign In page
